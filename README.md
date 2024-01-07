@@ -1,4 +1,4 @@
-Expense tracker
+#Expense tracker
 
 Overview
 This is a small Vue 3 project designed for quick practice and hands-on learning. The main features include:
