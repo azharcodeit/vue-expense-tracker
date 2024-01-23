@@ -1,6 +1,8 @@
 # Expense tracker
 A Vue 3 Practice Project for Transaction Management.
 
+# Deployed at: https://azharcodeit.github.io/vue-expense-tracker/
+
 ## Overview
 This Vue 3 project serves as a hands-on learning opportunity, providing a practical exercise in web development. The main focus is on transaction management, offering essential features for organizing financial activities.
 
